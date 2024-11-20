@@ -1,0 +1,1 @@
+# resumo-do-lab-tipos-servicos-nuvem
